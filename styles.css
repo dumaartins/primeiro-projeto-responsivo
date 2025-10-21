@@ -53,9 +53,9 @@ p {
 button {
     width: 269px;
     height: 62px;
-    background: #9499EA;
+    background: #1cbd2f;
     box-shadow: 0px 10px 24px rgba(148, 153, 234, 0.0979959);
-    color: #FFFFFF;
+    color: #b80d7f;
     font-size: 24px;
     line-height: 36px;
     text-align: center;
@@ -74,7 +74,7 @@ button:active {
 a {
     font-size: 28px;
     line-height: 41px;
-    color: #5D5D7D;
+    color: #2525a4;
     margin-right: 41px;
     cursor: pointer;
 }
