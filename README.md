@@ -6,3 +6,4 @@
  <h3>🖥 Projeto na versão navegador Desktop</h3>
  <img src="https://github.com/dumaartins/primeiro-projeto-responsivo/blob/main/assets/Versao-Desktop-projeto-responsivo.png?raw=true" alt="Desktop" width="700"/>
  <h3>📱 Projeto na versão para Smartphone</h3>
+<img src="https://github.com/dumaartins/primeiro-projeto-responsivo/blob/main/assets/Versao-Smartphone-projeto-responsivo.png?raw=true" alt="Cellphone" width="700"/>
