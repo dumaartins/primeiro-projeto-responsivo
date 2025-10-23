@@ -20,7 +20,7 @@
       </td>
       <td align="center">
         <h3>📱 Smartphone</h3>
-        <img src="./assets/versao-smartphone-projeto-responsivo-paint.jpg" width="200"/>
+        <img src="./assets/versao-smartphone-projeto-responsivo-paint.jpg" width="350"/>
       </td>
     </tr>
   </table>
