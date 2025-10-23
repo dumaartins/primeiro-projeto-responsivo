@@ -4,6 +4,6 @@
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <h3>🖥 Projeto na versão navegador Desktop</h3>
- <img src="https://github.com/dumaartins/primeiro-projeto-responsivo/blob/main/assets/Versao-Desktop-projeto-responsivo.png?raw=true" alt="Desktop" width="700"/>
+ <img src="https://github.com/dumaartins/primeiro-projeto-responsivo/blob/main/assets/Versao-Desktop-projeto-responsivo.jpg?raw=true" alt="Desktop" width="700"/>
  <h3>📱 Projeto na versão para Smartphone</h3>
 <img src="https://github.com/dumaartins/primeiro-projeto-responsivo/blob/main/assets/Versao-Smartphone-projeto-responsivo(2).png?raw=true" alt="Cellphone" width="700"/>
