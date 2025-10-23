@@ -4,6 +4,6 @@
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <h3>🖥 Projeto na versão navegador Desktop</h3>
- ![Desktop](assets/desktop-projeto-responsivo-paint.jpg)
+<img src="./assets/desktop-projeto-responsivo-paint.jpg"/>
  <h3>📱 Projeto na versão para Smartphone</h3>
-![Smartphone](assets/versao-smartphone-projeto-responsivo-paint.jpg)
+<img src="./assets/versao-smartphone-projeto-responsivo-paint.jpg"/>
